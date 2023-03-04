@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[Dinosaur Game Animation](https://www.youtube.com/watch?v=AKKfFvGmQEI)
