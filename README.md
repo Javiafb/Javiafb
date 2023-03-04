@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Dinosaur Game Animation](https://cdn.rawgit.com/wayou/t-rex-runner/gh-pages/assets/preview.gif)
 
-![Dinosaur Game Animation](https://i.imgur.com/8W7NJwM.gif)
