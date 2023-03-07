@@ -35,4 +35,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/Javiafb/animacion.git)
+![Snake animation](https://github.com/Javiafb/animacion/blob/main/github-contribution-grid-snake.svg)
