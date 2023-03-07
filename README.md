@@ -21,7 +21,7 @@
     
   
   <h1 align="center">Redes Sociales</h1>
-    <a href = "">
+    <a href = "mailto:jfernandezb02@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "">
