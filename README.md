@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+}<p align="center">
+  <img src="https://github.com/Javiafb/banner/blob/main/banner.gif" alt="Banner" />
+</p>
+
 <h1 align="center">¡Hola, soy Javier! 👋</h1>
 
 <p align="center">
   <img src="https://github.com/Javiafb.png" width="200" height="200" alt="Javier" />
 </p>
 
-<p align="center">Desarrollador web con experiencia en PHP, MySQL, HTML, CSS, JavaScript, Ajax, Bootstrap y APIs. Me encanta crear soluciones web elegantes y eficaces que proporcionen una excelente experiencia de usuario.</p>
+<p align="center">Desarrollador web con experiencia en PHP, MySQL, HTML, CSS, JavaScript, Ajax, Bootstrap y APIs. Me encanta crear soluciones web elegantes y eficaces que proporcionen una excelente experiencia de usuario. 💻🌐🚀</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/username/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/username/" alt="LinkedIn"></a>
-  <a href="https://twitter.com/username"><img src="https://img.shields.io/twitter/follow/username?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/username/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/username"><img src="https://img.shields.io/twitter/follow/username?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 <h2 align="center">Habilidades</h2>
@@ -50,10 +54,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">Contacto</h2>
 
-<p align="center">Puedes contactarme a través de mi correo electrónico: javier@example.com</p>
+<p align="center">Puedes contactarme a través de mi correo electrónico: javier@example.com 📩</p>
 
-<p align="center">También puedes visitar mi sitio web personal: <a href="https://www.javierexample.com/">javierexample.com</a></p>
-
-<h2 align="center">¡Hablemos!</h2>
-
-<p align="center">Si tienes un proyecto en mente o simplemente quieres decir hola, ¡no dudes
+<p align="center">También puedes visitar mi sitio web personal: <a href="https://www.javierexample
