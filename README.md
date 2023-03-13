@@ -42,7 +42,7 @@
 
 <div>
   <img  height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Javiafb&theme=tokyonight&hide_border=true"/>
-  <img align="right"  width="485"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica"/>
+  <img align="right" width="325"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 <br>
 
