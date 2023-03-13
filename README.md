@@ -1,8 +1,8 @@
 ## developer, Javier fernandez!
 
 <div>
-  <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Javiafb&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiafb&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=Javiafb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiafb&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 <br>
 
@@ -36,3 +36,20 @@
 </div>
   
 ![Snake animation](https://github.com/Javiafb/animacion/blob/main/github-contribution-grid-snake.svg)
+
+
+# 📊 GitHub Stats:
+
+<div>
+  <img  height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Javiafb&theme=tokyonight&hide_border=true"/>
+  <img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica"/>
+</div>
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Javiafb&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=Javiafb&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+
